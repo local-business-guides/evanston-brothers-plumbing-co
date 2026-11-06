@@ -27,6 +27,9 @@
 - [Affordable plumber Evanston homeowners can call](https://local-business-guides.github.io/evanston-brothers-plumbing-co/affordable-plumber-evanston/): Need an affordable plumber Evanston homeowners can call? Get practical plumbing help in Evanston, Illinois, and call us to discuss your repair today.
 - [Nearest plumber to me Evanston homeowners can call](https://local-business-guides.github.io/evanston-brothers-plumbing-co/nearest-plumber-to-me-evanston/): Looking for nearest plumber to me Evanston? Get a clear next step for plumbing help in Evanston, Illinois. Call Evanston Brothers Plumbing today.
 
+## Newsroom
+- [Evanston Brothers Plumbing Co Publishes New Guide to Evanston Plumber](https://local-business-guides.github.io/evanston-brothers-plumbing-co/news/2026-11-06-evanston-brothers-plumbing-co-publishes-new-guide/): Evanston Brothers Plumbing Co released a guide to Evanston Plumber, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-06)
+
 ## Pages
 - [Evanston Plumber in Illinois](https://local-business-guides.github.io/evanston-brothers-plumbing-co/): Get dependable plumbing and HVAC help for your Evanston home or business, with plumbing emergency service available around the clock. Call +1224-362-0700.
 - [About Evanston Brothers Plumbing Co](https://local-business-guides.github.io/evanston-brothers-plumbing-co/about/): About Evanston Brothers Plumbing Co, Evanston.
@@ -34,4 +37,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/evanston-brothers-plumbing-co/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/evanston-brothers-plumbing-co/news/rss.xml)
 - [Main resource site](https://evanston-brothers-plumbing.localbusinesses1.chatgpt.site)
